@@ -1,0 +1,50 @@
+.topnav {
+    background-color: beige;
+    overflow: hidden;
+    font-family: Verdana, sans-serif;
+}
+
+.topnav a {
+    float: left;
+    color: darkgreen;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.botnav {
+    background-color: beige;
+    overflow: hidden;
+    font-family: Verdana, sans-serif;
+}
+
+.botnav a {
+    float: left;
+    color: darkgreen;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+#owl-logo{
+    float: left;
+    width: 40px;
+}
+
+#banner-image {
+    margin-top: 50px;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.p-lore {
+    font-family: Verdana, sans-serif;
+    text-align: justify;
+    margin-left: 3%;
+    margin-right: 3%;
+}
