@@ -13,6 +13,10 @@
     font-size: 17px;
 }
 
+.footer {
+    margin-top: 40px;
+}
+
 .botnav {
     background-color: beige;
     overflow: hidden;
@@ -20,7 +24,6 @@
 }
 
 .botnav a {
-    float: left;
     color: darkgreen;
     text-align: center;
     padding: 14px 16px;
@@ -47,4 +50,8 @@
     text-align: justify;
     margin-left: 3%;
     margin-right: 3%;
+}
+
+.fa {
+    float: right;
 }
