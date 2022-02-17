@@ -15,7 +15,6 @@
 
 footer {
     margin-top: 40px;
-    bottom: 0;
 }
 
 .botnav {
@@ -194,4 +193,17 @@ a:active {
 
 .basket-img-table {
     width: 100px;
+}
+
+.data-text {
+    font-family: Verdana, sans-serif;
+    color: darkgreen;
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 15%;
+}
+
+.about-video {
+    width: 700px;
+    margin-top: 40px;
 }
