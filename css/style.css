@@ -113,10 +113,9 @@ div li {
     text-decoration: none;
     display: inline-block;
     font-size: 12px;
-    margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     border-radius: 8px;
 }
 
@@ -166,4 +165,33 @@ a:hover {
 
 a:active {
     text-decoration: underline;
+}
+
+.basket-table {
+    font-family: Verdana, sans-serif;
+    color: darkgreen;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.basket-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+}
+
+.basket-table td, .basket-table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.basket-icon {
+    width: 50%;
+    height: 50%;
+}
+
+.basket-img-table {
+    width: 100px;
 }
