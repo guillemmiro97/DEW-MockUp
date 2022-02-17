@@ -207,3 +207,13 @@ a:active {
     width: 700px;
     margin-top: 40px;
 }
+
+.contact {
+    margin-top: 5%;
+    display: inline-block;
+}
+
+.contact-card {
+    font-family: Verdana, sans-serif;
+    color: navy;
+}
